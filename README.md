@@ -14,5 +14,3 @@ Modern firmware security (PS4 13.50 / PS5 13.20) necessitates shifting focus fro
 * **src/spray.c**: Heap spraying utility for memory reclamation.
 * **docs/analysis.md**: Detailed engineering breakdown of UMA and state transitions.
 
-## About the Researcher
-**tHefishsop** is an engineer based in Al-Amara, Maysan Province, Iraq. Born July 1, 2002, he holds academic and professional backgrounds in chemical, electrical, and computer engineering. His work integrates technical DIY hardware analysis with system-level security research.
